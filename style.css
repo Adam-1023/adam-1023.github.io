@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Elliot Swonger';
+    src: url('Elliot Swonger.ttf') format('truetype'),
+}
+
+
+
+.title {
+    text-align: center;
+    color: #FF69B4;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 80px;
+    font-family: 'Elliot Swonger', sans-serif; 
+}
+.page_select {
+    text-align: center;
+    color: #FF69B4;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 5px;
+}
+.links {
+    text-align: center;
+}
+body {
+    background-color: white;
+}
